@@ -1,0 +1,16 @@
+﻿  bank_2.cpp
+C:\Users\Abdullah\Desktop\visualll\bank_2\bank_2\bank_2.cpp(137,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Abdullah\Desktop\visualll\bank_2\bank_2\bank_2.cpp(147,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Abdullah\Desktop\visualll\bank_2\bank_2\bank_2.cpp(272,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+      C:\Users\Abdullah\Desktop\visualll\bank_2\bank_2\bank_2.cpp(272,12):
+      consider using '%zd' in the format string
+  
+C:\Users\Abdullah\Desktop\visualll\bank_2\bank_2\bank_2.cpp(476,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Abdullah\Desktop\visualll\bank_2\bank_2\bank_2.cpp(486,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Abdullah\Desktop\visualll\bank_2\bank_2\bank_2.cpp(514,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+      C:\Users\Abdullah\Desktop\visualll\bank_2\bank_2\bank_2.cpp(514,12):
+      consider using '%zd' in the format string
+  
+C:\Users\Abdullah\Desktop\visualll\bank_2\bank_2\bank_2.cpp(827,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Abdullah\Desktop\visualll\bank_2\bank_2\bank_2.cpp(673,1): warning C4715: 'delete_user': not all control paths return a value
+  bank_2.vcxproj -> C:\Users\Abdullah\Desktop\visualll\bank_2\x64\Debug\bank_2.exe
